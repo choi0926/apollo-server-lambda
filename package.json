@@ -1,0 +1,23 @@
+{
+  "name": "apollo-lambda",
+  "version": "1.0.0",
+  "description": "apollo-server-lambda",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choi0926/apollo-server-lambda.git"
+  },
+  "author": "choi0926",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/choi0926/apollo-server-lambda/issues"
+  },
+  "homepage": "https://github.com/choi0926/apollo-server-lambda#readme",
+  "dependencies": {
+    "apollo-server-lambda": "^2.13.1",
+    "graphql": "^15.0.0"
+  }
+}
