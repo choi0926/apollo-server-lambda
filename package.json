@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/choi0926/apollo-server-lambda#readme",
   "dependencies": {
-    "apollo-server-lambda": "^2.13.1",
+    "apollo-server-lambda": "^2.14.2",
     "graphql": "^15.0.0"
   }
 }
